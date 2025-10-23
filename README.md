@@ -1,79 +1,103 @@
 # 👋 Hey there, I'm Rushyanth Nerellakunta!
 
-🚀 **Data Scientist | AWS Certified ML Engineer | Cloud Analytics Specialist**
+🚀 **Machine Learning Engineer | Data Scientist | GenAI & Cloud Solutions Builder**
 
 ## 🔍 About Me
-- 🎓 **M.S. in Applied Data Science** at Indiana University Indianapolis (2025) | GPA: 3.8
-- 🔬 **3+ years of experience** in ETL pipelines, cloud workflows, and production ML systems
-- 🛠️ Specialized in **AWS cloud architecture**, **LLM integration**, and **scalable data solutions**
-- ☁️ **AWS Certified Machine Learning Engineer - Associate**
-
-## 🔧 Technical Arsenal
-**Languages & Frameworks:** Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow), R, SQL  
-**Cloud & Big Data:** AWS (S3, Glue, Lambda, SageMaker, Redshift), Snowflake, Databricks, Spark  
-**ML & AI:** Classification, Regression, NLP (spaCy, NLTK, LangChain), Computer Vision, Time-Series  
-**Visualization:** Tableau, Power BI, Looker, Streamlit, Plotly  
-**DevOps:** Git/GitLab, Airflow, CI/CD, Docker
-
-## 🚀 Current Role & Impact
-**Research Data Scientist @ Indiana University COMET Lab**
-- 🏗️ Architected **MySQL-backed data pipelines** transforming raw CSVs into structured research datasets
-- 🤖 Integrated **LLMs (LLaMA, OpenAI)** reducing SQL analytics turnaround by **40%**
-- 📊 Improved pipeline accuracy from **78% to 92%** through systematic benchmarking
-- 📈 Built **Streamlit dashboards** for real-time metric monitoring
-
-## 🌟 Professional Highlights
-- 🔄 **Automated ETL pipelines** with Python + Airflow, cutting refresh latency by **40%+**
-- 📊 Deployed **20+ Tableau dashboards**, reducing reporting time from **3 days to 3 hours**
-- 🧪 Conducted **6+ A/B tests** improving VR app retention by **12%**
-- 💰 Built **pricing elasticity models** with <5% forecasting error
-- 🎯 Applied **NLP sentiment analysis** on 100K+ posts, saving **$2K/year** in marketing costs
-
-## 🛠️ Featured Projects
-
-### 🏭 Supply Chain Predictive Maintenance
-**Tech Stack:** AWS, SageMaker, CloudWatch  
-- Deployed time-series failure prediction with **F1 = 0.87**
-- Automated monitoring and alerting system
-
-### 💼 GenAI Financial Document Assistant
-**Tech Stack:** LangChain, ChromaDB, RAG  
-- Built SEC 10-K parsing pipeline with structured Q&A
-- Reduced analyst research time by **50%**
-
-### ✈️ Airline Price Prediction
-**Tech Stack:** XGBoost, Streamlit  
-- Trained on 300K flight records achieving **R² = 0.91**
-- Interactive web app for real-time forecasting
-
-### 📈 Customer Churn Analytics
-**Tech Stack:** BigQuery, Google Data Studio  
-- Automated churn-risk dashboard reducing churn by **8%**
-- Consolidated CRM, billing, and usage data
-
-## 🌱 Currently Exploring
-- **Advanced MLOps** and model monitoring in production
-- **Large Language Model fine-tuning** for domain-specific applications
-- **Real-time streaming analytics** with Apache Kafka and AWS Kinesis
-- **AutoML** and hyperparameter optimization techniques
-
-## 🤝 Looking to Collaborate On
-- 🔍 **LLM-powered SQL query engines** and natural language database interfaces
-- 📊 **Advanced analytics dashboards** with real-time capabilities
-- ⚡ **Scalable ML pipelines** for high-volume data processing
-- 🌐 **Cloud-native data architectures** and serverless solutions
-
-
-## 📬 Let's Connect!
-- 📧 **Email:** [rushyanth55@gmail.com](mailto:rushyanth55@gmail.com)
-- 💼 **LinkedIn:** [nerellakunta-rushyanth](https://www.linkedin.com/in/nerellakunta-rushyanth/)
-- 📍 **Location:** Indianapolis, IN
-
-## ⚡ Fun Facts
-- 🏸 **Sports enthusiast:** Badminton, Cricket, and Chess player
-- 🎯 **Data storytelling** advocate - I believe every dataset has a story to tell!
-- ☕ **Coffee-powered coder** - Best algorithms are written with good coffee
+- 🎓 **M.S. in Applied Data Science**, Indiana University Indianapolis (2025) | GPA: 3.8  
+- 💼 **3+ years of experience** in production ML systems, cloud-native pipelines, and analytics  
+- ☁️ **AWS Certified Machine Learning Engineer – Associate**  
+- 🤖 Passionate about building scalable **LLM-powered systems**, intelligent data pipelines, and **real-time analytics** solutions.
 
 ---
-*"Turning data into insights, one pipeline at a time!"* ✨
 
+## 🧠 Technical Skills
+
+**Programming & ML:** Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow), R, SQL, Bash, C++  
+**GenAI & LLMs:** OpenAI, Gemini, Claude, LangChain, LangGraph, Transformers, ChromaDB, Pinecone, MLflow  
+**Cloud & Big Data:** AWS (SageMaker, Lambda, S3, CloudWatch), Databricks, Snowflake, Spark, Airflow  
+**Visualization & BI:** Tableau, Power BI, Plotly, Streamlit, Excel, Power Automate  
+**DevOps & Backend:** FastAPI, Flask, Docker, Kubernetes, CI/CD, Git/GitLab  
+**ML Techniques:** Classification, Regression, Forecasting, NLP, Computer Vision, A/B Testing
+
+---
+
+## 🚀 Current Role & Impact
+
+### 🤖 AIML Engineer @ Kahana (Aug 2025 – Present)
+- 🧭 Spearheading the development of **voice-enabled AI layer** for Firefox using Gemini + Deepgram.  
+- ⚡ Reduced token usage by **35%** via intelligent caching and prompt routing.  
+- ☁️ Built serverless functions with **AWS Lambda & Cognito** for low-latency interaction.  
+- 🧩 Designed modular voice pipelines enabling dynamic browser automation.
+
+### 🧪 Research Data Scientist @ Indiana University COMET Lab (Aug 2024 – May 2025)
+- ⚙️ Engineered ETL pipelines reducing analytics turnaround by **40%**.  
+- 🧠 Executed **60+ ML experiments**, improving SQL translation model accuracy from 78% → 92%.  
+- 🧾 Built prompt-engineering pipelines using LLaMA & OpenAI for workflow automation.  
+- 📊 Developed real-time Tableau dashboards to monitor model KPIs.
+
+### 📈 Data Analyst @ Virgenverse (Feb 2022 – Nov 2023)
+- 🔁 Automated ETL workflows, cutting refresh latency by **40%**.  
+- 🧮 Built churn prediction models improving retention by **8%**.  
+- 📊 Deployed Tableau dashboards for marketing and product performance visibility.  
+- 🧪 Led A/B and multivariate tests for pricing optimization.
+
+---
+
+## 🛠️ Highlighted Projects
+
+### 🏥 **Healthcare AI Agent (RAG System)** – *LangChain + ChromaDB*
+- Designed a **multi-agent RAG system** for health insurance recommendation.
+- Improved factual accuracy by **27%**, reduced query latency with retrieval optimization.
+
+### 🧾 **Financial RAG Assistant**
+- Built GenAI chatbot integrating **LangChain + OpenAI** for financial reporting.
+- Cut analyst research time by **50%** through structured retrieval and LLM routing.
+
+### ✈️ **Airline Price Prediction**
+- Performed advanced feature engineering and ensemble regression (XGBoost, LightGBM).
+- Achieved **R² = 0.91** on 300K flight records with Streamlit deployment.
+
+### 📊 **Customer Churn Dashboard**
+- Developed XGBoost-based predictive model.
+- Deployed interactive retention dashboards, reducing churn by **8%**.
+
+---
+
+## 🧭 Areas I’m Exploring
+- Advanced **MLOps & model monitoring** in production  
+- **LLM fine-tuning** for domain-specific apps  
+- Real-time streaming analytics (Kafka + Kinesis)  
+- Databricks & multi-cloud deployment strategies
+
+---
+
+## 🧑‍🤝‍🧑 Open to Collaborate On
+- LLM-powered SQL & natural language interfaces  
+- Scalable real-time ML pipelines  
+- Cloud-native AI/ML platform architectures  
+- AI Assistants for analytics & operations
+
+---
+
+## 🧾 Certifications
+- ☁️ **AWS Machine Learning Engineer – Associate**  
+- 🧠 (Planned) TensorFlow Developer | GCP ML Engineer | Databricks ML Professional
+
+---
+
+## 📬 Connect with Me
+- 📧 **Email:** [rushyanth55@gmail.com](mailto:rushyanth55@gmail.com)  
+- 💼 **LinkedIn:** [nerellakunta-rushyanth](https://www.linkedin.com/in/nerellakunta-rushyanth/)  
+- 🐙 **GitHub:** [RushyanthN](https://github.com/RushyanthN)  
+- 📍 Indianapolis, IN
+
+---
+
+## ⚡ Fun Facts
+- 🏸 **Sports enthusiast:** Badminton, Cricket & Chess  
+- 📊 Advocate for **data storytelling** & clean architecture  
+- ☕ Coffee is my co-pilot — best models are brewed with espresso.
+
+---
+
+"Building intelligent systems that understand and interact naturally with humans, one voice command at a time!" ✨
