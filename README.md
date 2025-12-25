@@ -86,7 +86,7 @@
 ---
 
 ## 📬 Connect with Me
-- 📧 **Email:** [rushyanth55@gmail.com](mailto:rushyanth55@gmail.com)  
+- 📧 **Email:** [rushyanth55@gmail.com](mailto:rushyanth.work@gmail.com)  
 - 💼 **LinkedIn:** [nerellakunta-rushyanth](https://www.linkedin.com/in/nerellakunta-rushyanth/)  
 - 🐙 **GitHub:** [RushyanthN](https://github.com/RushyanthN)  
 - 📍 Indianapolis, IN
