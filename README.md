@@ -17,8 +17,6 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=RushyanthN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
-
 ## 🧠 About Me
 
 ```python
@@ -105,13 +103,6 @@ End-to-end **Natural Language → SQL pipeline** enabling non-technical users to
 
 ## 🏗️ Featured Projects
 
-<div align="center">
-
-[![RAG Finance](https://github-readme-stats.vercel.app/api/pin/?username=RushyanthN&repo=RAG-for-Finance&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF)](https://github.com/RushyanthN/RAG-for-Finance)
-[![SparkFlow](https://github-readme-stats.vercel.app/api/pin/?username=RushyanthN&repo=SparkFlow---Streamlined-machine-learning-with-Apache-Spark&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF)](https://github.com/RushyanthN/SparkFlow---Streamlined-machine-learning-with-Apache-Spark)
-
-</div>
-
 ### 🗂️ All Projects at a Glance
 
 | Project | Description | Impact | Stack |
@@ -127,8 +118,12 @@ End-to-end **Natural Language → SQL pipeline** enabling non-technical users to
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RushyanthN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushyanthN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=RushyanthN&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RushyanthN&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
 </div>
 
 ---
