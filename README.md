@@ -1,137 +1,174 @@
-# 👋 Hey there, I'm Rushyanth Nerellakunta!
+<div align="center">
 
-🚀 **Machine Learning Engineer | AI/ML Engineer | GenAI & Cloud Solutions Builder**
+```
+██████╗ ██╗   ██╗███████╗██╗  ██╗██╗   ██╗ █████╗ ███╗   ██╗████████╗██╗  ██╗
+██╔══██╗██║   ██║██╔════╝██║  ██║╚██╗ ██╔╝██╔══██╗████╗  ██║╚══██╔══╝██║  ██║
+██████╔╝██║   ██║███████╗███████║ ╚████╔╝ ███████║██╔██╗ ██║   ██║   ███████║
+██╔══██╗██║   ██║╚════██║██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║   ██║   ██╔══██║
+██║  ██║╚██████╔╝███████║██║  ██║   ██║   ██║  ██║██║ ╚████║   ██║   ██║  ██║
+╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
+```
 
-## 🔍 About Me
-- 🎓 **M.S. in Applied Data Science**, Indiana University Indianapolis (2025) | GPA: 3.8  
-- 💼 **3+ years of experience** building production-grade intelligent systems, from voice-driven browser interfaces to RAG-based Q&A pipelines  
-- ☁️ **AWS Certified Machine Learning Engineer – Associate** (Valid Jul 2025 - Jul 2028)  
-- 🤖 Expert in **LLM orchestration**, **multi-agent systems**, and **MLOps**, with hands-on experience deploying models using PyTorch, LangChain, and cloud platforms.
+### `$ whoami` → **ML Engineer · GenAI Builder · Voice AI Pioneer**
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+intelligent+systems+that+listen+%F0%9F%8E%99%EF%B8%8F;Turning+voice+into+action+with+LLMs+%F0%9F%A4%96;RAG+pipelines+%7C+Multi-Agent+Systems+%7C+MLOps;AWS+Certified+ML+Engineer+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
-## 🧠 Technical Skills
-
-**Programming Skills:** C, C++, Python, R, SQL, Bash, UNIX  
-**Machine Learning:** Supervised & Unsupervised Learning, Deep Learning (CNN, RNN, Transformers), NLP, Recommendation Systems, PyTorch, TensorFlow, Hugging Face Transformers  
-**GenAI & LLMs:** OpenAI, Gemini, Claude, LangChain, LangGraph, Llama, ChromaDB, Pinecone, RAG, Multi-Agent Systems, MCP (Model Context Protocol)  
-**Data Analytics:** Exploratory Data Analysis (EDA), Feature Engineering, Statistical Modeling, Hypothesis Testing, A/B Testing, Tableau, Power BI, Matplotlib, Seaborn, Plotly  
-**Big Data & Cloud:** Apache Spark, Hadoop, AWS (SageMaker, Lambda, S3, CloudWatch, Cognito), SQL & NoSQL Databases, ETL Pipelines, Data Warehousing (Snowflake, Redshift), Azure ML, GCP Vertex AI  
-**MLOps & Deployment:** FastAPI, Docker, Kubernetes, CI/CD, MLflow, Weights & Biases  
-**Tools & Version Control:** MATLAB, Git, GitHub, Jenkins, Visual Studio, JIRA
+</div>
 
 ---
 
-## 🚀 Current Role & Impact
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=RushyanthN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
 
-### 🤖 AI/ML Engineer @ Kahana Inc (Aug 2025 – Present)
-- 🗣️ Built a **voice-first browsing layer** on top of Firefox, enabling users to talk to the browser for navigation and task completion (shopping, job applications, search) instead of manual clicking/typing
-- ☁️ Implemented an **AWS Lambda–hosted GenAI gateway** to securely run Deepgram (speech-to-text) and Gemini (intent + reasoning) while isolating API credentials from the client
-- ⚡ Added **semantic + request-level caching** (Redis) to reduce duplicate LLM calls, mitigate API rate-limit risk, and stabilize performance under repeated/looping user queries
-- 🤖 Created and tested a **multi-agent orchestration system** using Google ADK, decomposing workflows into specialized sub-agents (Shopping, Job Apply, Q&A/Search) with routing + handoffs for multi-step tasks
-- 🛡️ Implemented **structured reasoning + tool-use guardrails** (ReAct-style planning/execution) with retrieval/tool validation to reduce off-target responses and hallucination risk
-- 🔌 Integrated **MCP (Model Context Protocol)** to standardize tool connectivity and context exchange between the browser layer, agents, and external services
-- 🤝 Partnered with product + engineering to translate research prototypes into customer-facing AI capabilities
+## 🧠 About Me
 
-**Tech Stack:** Python, AWS Lambda, FastAPI, WebSockets, Deepgram API, Gemini, Redis, Google ADK, MCP, Docker, AWS S3, CloudWatch, Cognito
+```python
+class RushyanthNerellakunta:
+    def __init__(self):
+        self.role       = "ML / GenAI Engineer"
+        self.location   = "Indianapolis, IN 🇺🇸"
+        self.experience = "3+ years in production ML"
+        self.education  = "M.S. Applied Data Science @ IU (GPA: 3.8)"
+        self.cert       = "AWS ML Engineer – Associate ☁️"
+        self.superpower = "Turning coffee ☕ into intelligent systems"
 
----
+    def currently_building(self):
+        return [
+            "🗣️  Voice-first browser AI @ Kahana",
+            "🤖  Multi-agent orchestration systems",
+            "🔍  Advanced RAG pipelines",
+        ]
 
-## 💼 Previous Experience
+    def ask_me_about(self):
+        return ["LLMs", "RAG", "MLOps", "Voice AI", "AWS"]
+```
 
-### 🧪 Machine Learning Engineer @ COMET Lab, Indiana University (Aug 2024 – May 2025)
-- 🔄 Built an **end-to-end Natural Language → SQL Q&A system** by cleaning web-scraped CSV datasets, loading them into a SQL database, and using LangChain + Llama-3.3-70B-Versatile to generate SQL, execute and return results
-- 🎯 Implemented **embedding-based retrieval** and stored vectors in local ChromaDB to fetch relevant context (schema snippets, table/column descriptions) before generation
-- 📈 Improved **SQL execution accuracy from 78% → 92%** through iterative prompt engineering (one-shot/few-shot exemplars) and structured planning + tool-use prompting (ReAct-style)
-- 🛡️ Added **read-only guardrails** (validation + blocklist/allowlist) to prevent destructive statements (DELETE/UPDATE/DROP) and integrated Human-in-the-Loop review for low-confidence requests
-- 📊 Built a **post-training evaluation harness with 60+ ground-truth test cases**, reporting Execution Accuracy and Exact Match
-- 🎤 Presented research findings and recommendations to technical and non-technical stakeholders, influencing strategic roadmap decisions
-
-**Tech Stack:** Python, SQL, LangChain, ChromaDB, Embeddings, Llama-3.3-70B-Versatile, Local LLMs, RAG, Evaluation, Guardrails, HITL
-
-### 📈 Jr Machine Learning Engineer @ Virgenverse (Feb 2022 – Nov 2023)
-- ⚙️ Engineered resilient **ETL pipelines** using Apache Airflow + Python, reducing **data refresh latency by 40%** and ensuring T+1 data availability
-- 💬 Built a **sentiment analytics pipeline** with spaCy/NLTK to process **100K+ social/customer posts**, generating actionable insights and dashboards for marketing teams
-- 🧪 Designed and executed **A/B and multivariate experiments** to optimize pricing and marketing initiatives, improving conversion rates
-- ❄️ Optimized data warehousing in **Snowflake** by migrating legacy stored procedures into efficient SQL transformations, improving **BI/dashboard query performance by 3×**
-- ✅ Improved **data quality and reliability** with validation checks, retry logic, and lineage-friendly logging
-- 🤝 Collaborated with data engineers, product managers, and marketing teams to translate insights into actionable recommendations
-
-**Tech Stack:** Python, Apache Airflow, SQL, Snowflake, spaCy, NLTK, BI Dashboards
+<br clear="right"/>
 
 ---
 
-## 🛠️ Featured Projects
+## ⚡ Tech Arsenal
 
-### 💼 **Advanced Financial RAG System for SEC 10-K Filings** (Dec 2025)
-[🔗 GitHub Repository](https://github.com/RushyanthN/RAG-for-Finance.git)
-- Built a **production-grade Retrieval-Augmented Generation (RAG) pipeline** for SEC 10-K filings, enabling natural-language Q&A over **200+ pages** of Apple and Tesla annual reports with source-level citations
-- Engineered a **multi-modal document ingestion pipeline** using PyMuPDF and pdfplumber to extract narrative text and financial tables, including intelligent year-column alignment for time-series data
-- **Benchmarked three embedding models** (Google text-embedding-004, MiniLM, E5-Large) across retrieval accuracy, latency (p50/p90), and confidence scoring
-- Implemented **ChromaDB-based semantic vector search** with neighbor chunk expansion and cross-page overlap, reducing context fragmentation and improving **answer completeness by ~30%**
-- Integrated **Gemini 2.5 Flash** with JSON-schema-enforced outputs, automated citation extraction, and answer confidence scoring to support audit-ready financial analysis
+<div align="center">
 
-**Tech Stack:** Python, ChromaDB, Gemini API, PyMuPDF, pdfplumber, Sentence-Transformers, PyTorch, Pandas
+| 🧩 Domain | 🛠️ Stack |
+|---|---|
+| **GenAI & LLMs** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white) RAG · Agents · MCP · LoRA/PEFT |
+| **ML Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Cloud & MLOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) |
+| **Data & Infra** | ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ChromaDB · Pinecone |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) Bash · JavaScript |
 
-### ⚡ **SparkFlow — Streamlined Machine Learning with Apache Spark** (May 2025)
-[🔗 GitHub Repository](https://github.com/RushyanthN/SparkFlow---Streamlined-machine-learning-with-Apache-Spark.git)
-- Built an **end-to-end distributed ML pipeline** in Apache Spark ML implementing Linear Regression, Logistic Regression, K-Means, and LDA, with automated JSON metrics logging
-- Trained a Linear Regression model on a **692-dimensional feature space**, achieving **R² = 0.73, RMSE = 0.26, and MSE = 0.068**
-- Developed a binary Logistic Regression classifier achieving **100% accuracy / precision / recall / F1** with **AUC-ROC = 1.0** on the test set
-- Implemented K-Means with k comparison (k=2 vs k=3), improving **WSSSE from 0.12 → 0.075 (37.5% better)**
-- Built an LDA topic modeling pipeline extracting 10 topics, comparing hyperparameters across k=[5,10], and reporting perplexity for model selection
-
-**Tech Stack:** Python, Apache Spark, PySpark (Spark MLlib), Spark SQL, argparse, JSON metrics logging, Jupyter Notebook, Pandas/NumPy, Git/GitHub
+</div>
 
 ---
 
-## 🎓 Education
+## 🚀 What I'm Building
 
-**Master of Science, Applied Data Science**  
-Indiana University Purdue University Indianapolis | GPA: 3.8/4.0 | May 2025
+<table>
+<tr>
+<td width="50%">
 
-**Bachelor of Technology, Electronics & Communication Engineering**  
-Sreenidhi Institute of Science and Technology, Hyderabad, India | May 2022
+### 🗣️ Voice AI Browser — *Kahana*
+> "Talk to your browser, not at it"
 
----
+Built a **voice-first browsing layer** on Firefox where users navigate, shop, and apply for jobs using natural speech — no clicking required.
 
-## 🏆 Certifications
-- ☁️ [**AWS Machine Learning Engineer – Associate**](https://www.credly.com/badges/00e0554f-08f5-4514-832f-2731734cecf3/public_url) (Valid Jul 2025 - Jul 2028)
+**Key wins:**
+- 🔻 40% latency reduction via serverless Lambda gateway
+- 💰 35% token cost savings with semantic caching
+- 🤖 Multi-agent system (Shopping · Job Apply · Search)
+- 🔌 MCP integration for standardized tool connectivity
 
----
+`AWS Lambda` `Deepgram` `Gemini` `Google ADK` `FastAPI` `Redis`
 
-## 🧭 Areas I'm Exploring
-- Advanced **MLOps & model monitoring** in production environments
-- **LLM fine-tuning** for domain-specific applications
-- Multi-agent systems and agentic workflows
-- Real-time streaming analytics (Kafka + Kinesis)
-- Voice-enabled AI interfaces and conversational systems
+</td>
+<td width="50%">
 
----
+### 🔍 NL→SQL Research Engine — *IU COMET Lab*
+> "Ask databases questions in plain English"
 
-## 🧑‍🤝‍🧑 Open to Collaborate On
-- LLM-powered SQL & natural language interfaces
-- Scalable real-time ML pipelines
-- Cloud-native AI/ML platform architectures
-- Multi-agent systems and RAG applications
-- Voice-first AI applications
+End-to-end **Natural Language → SQL pipeline** enabling non-technical users to query complex databases through conversation.
 
----
+**Key wins:**
+- 📈 78% → **92% SQL execution accuracy**
+- 🧠 Schema-aware RAG + ReAct reasoning
+- 🛡️ Read-only guardrails + Human-in-the-Loop
+- 📊 60+ ground-truth evaluation harness
 
-## 📬 Connect with Me
-- 📧 **Email:** [rushyanth.work@gmail.com](mailto:rushyanth.work@gmail.com)  
-- 💼 **LinkedIn:** [nerellakunta-rushyanth](https://www.linkedin.com/in/nerellakunta-rushyanth/)  
-- 🐙 **GitHub:** [RushyanthN](https://github.com/RushyanthN)  
-- 📍 **Location:** Indianapolis, IN, USA
+`LangChain` `ChromaDB` `LLaMA-3.3-70B` `RAG` `FastAPI`
 
----
-
-## ⚡ Fun Facts
-- 🏸 **Sports enthusiast:** Badminton, Cricket & Chess  
-- 📊 Advocate for **data storytelling** & clean architecture  
-- ☕ Coffee is my co-pilot — best models are brewed with espresso  
-- 🗣️ Building intelligent systems that understand and interact naturally with humans, one voice command at a time!
+</td>
+</tr>
+</table>
 
 ---
 
-💡 *"Strong collaborator skilled at translating complex AI capabilities into customer-facing products and actionable business insights."*
+## 🏗️ Featured Projects
+
+<div align="center">
+
+[![RAG Finance](https://github-readme-stats.vercel.app/api/pin/?username=RushyanthN&repo=RAG-for-Finance&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF)](https://github.com/RushyanthN/RAG-for-Finance)
+[![SparkFlow](https://github-readme-stats.vercel.app/api/pin/?username=RushyanthN&repo=SparkFlow---Streamlined-machine-learning-with-Apache-Spark&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF)](https://github.com/RushyanthN/SparkFlow---Streamlined-machine-learning-with-Apache-Spark)
+
+</div>
+
+### 🗂️ All Projects at a Glance
+
+| Project | Description | Impact | Stack |
+|---|---|---|---|
+| 💼 [**Financial RAG (SEC 10-K)**](https://github.com/RushyanthN/RAG-for-Finance) | NL Q&A over 200+ page annual reports | +30% answer completeness | ChromaDB · Gemini · PyMuPDF |
+| 🤖 **Agentic RAG + Self-Correction** | Multi-stage RAG with semantic routing & reranking | 95% accuracy · 0.92+ relevance | LangChain · Cross-Encoders |
+| ⚡ [**SparkFlow**](https://github.com/RushyanthN/SparkFlow---Streamlined-machine-learning-with-Apache-Spark) | Distributed ML pipelines (regression, clustering, LDA) | 37.5% WSSSE improvement | PySpark · Spark MLlib |
+| 🫁 **ViT vs ResNet50 (Medical AI)** | Multi-label chest X-ray classification (14 pathologies) | AUC-ROC: 0.86+ | TensorFlow · Vision Transformers |
+| ❄️ **SQL Server → Snowflake Migration** | Automated ETL migration of 70+ tables | 3× BI query speedup | Python · SnowConvert · Snowflake |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushyanthN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=RushyanthN&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
+</div>
+
+---
+
+## 🏆 Highlights & Wins
+
+```
+🥇  First Prize — State-Level All-Terrain Robotics Competition
+🎪  Organizer   — RoboVeda National Robotics Festival
+🏸  Treasurer   — Indiana University Badminton Club
+☁️  Certified   — AWS Machine Learning Engineer – Associate (Jul 2025 – Jul 2028)
+🎓  GPA 3.8/4.0 — M.S. Applied Data Science, Indiana University
+```
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-rushyanth.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushyanth.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nerellakunta--rushyanth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nerellakunta-rushyanth/)
+[![GitHub](https://img.shields.io/badge/GitHub-RushyanthN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RushyanthN)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║   "Strong collaborator skilled at translating complex AI     ║
+║    capabilities into customer-facing products and            ║
+║    actionable business insights."                            ║
+║                                                              ║
+║                              — Rushyanth Nerellakunta        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=RushyanthN&color=00D4FF&style=flat-square&label=Profile+Views)
+
+</div>
